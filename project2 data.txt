@@ -3,20 +3,49 @@ choose the plane
 create an account
 payment method
 about show
-Episodes No
+Episodes 
 Play
 
 
 List of Popular on Netflix---->
 1.Never have I Ever
-                    List of Episodes--->
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 2.Extraordinary Attorney Woo
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 3.The Sandman
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 4.Stranger Things
-5.Money Heist 
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
+5.Money Heist
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 6.Locke & key
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 7.Darlings
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 8.Lucifer
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 9.SHE
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 10.Squid Game
+                    1.About Show 
+                    2.Episodes--->1.Play
+                    3.Details
 
